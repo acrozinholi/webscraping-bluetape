@@ -7,5 +7,6 @@ Instruções da tarefa:
 4. Registrar as informações extraídas em planilha formato Excel em disposição que facilite posterior consulta e manipulação dos dados.
 
 Instruções de acesso: 
-1. Clonar o repositório git localmente e usar IDE que suporte formato Python.
-2. Rodar e Debugar.
+1. Ter Selenium instalado localmente.
+2. Clonar o repositório git localmente e usar IDE que suporte formato Python.
+3. Debugar e rodar.
