@@ -32,7 +32,7 @@ sleep(2)
 # Lista para armazenar os dados.
 dados_empresas = []
 
-# Busca e itera os 3 primeiros resultados.
+# Busca e itera os 3 primeiros resultados em "Melhores Empresas.
 for i in range(1, 4):
     moda_button_xpath = '/html/body/astro-island[6]/section[1]/div[1]/div[2]/nav[1]/div[2]/button[2]'
     moda_button = WebDriverWait(browser, 10).until(
@@ -89,7 +89,7 @@ for i in range(1, 4):
     sleep(2)
 
 
-# Lista e itera os 3 primeiros resultados.
+# Lista e itera os 3 primeiros resultados em "Piores Empresas".
 for i in range(1, 4):
     moda_button_xpath = '/html/body/astro-island[6]/section[1]/div[1]/div[2]/nav[1]/div[2]/button[2]'
     moda_button = WebDriverWait(browser, 10).until(
