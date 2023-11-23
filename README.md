@@ -10,3 +10,6 @@ Instruções de acesso:
 1. Ter Selenium instalado localmente.
 2. Clonar o repositório git localmente e usar IDE que suporte formato Python.
 3. Debugar e rodar.
+
+Observações: 
+Por se tratar de um site dinâmico, as posições do ranking podem variar. A planilha disponivel corresponde às posições referentes ao dia 23/11/2023. Caso haja variação nas posições, uma nova planilha será gerada com informações de outras empresas. 
